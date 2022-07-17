@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7F9D0693-17DB-3A21-8C46-AE15A2633186}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptsGeneral/QuitManager.cs">
+    <Files>
+      <File FileName="Assets/ScriptsGeneral/UpgradesManager.cs" Line="113" Column="6" />
+      <File FileName="Assets/ScriptsGeneral/Data.cs" />
+      <File FileName="Assets/ScriptsGeneral/Upgrades.cs" />
+      <File FileName="Assets/ScriptsGeneral/Controller.cs" />
+      <File FileName="Assets/ScriptsGeneral/ObjectManager.cs" Line="34" Column="10" />
+      <File FileName="Assets/ScriptsGeneral/BigDouble.cs" />
+      <File FileName="Assets/ScriptsGeneral/MineLevelUp.cs" />
+      <File FileName="Assets/ScriptsGeneral/QuitManager.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Idle Boss" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="ScriptsGeneral" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e7818f7-5d26-4fba-b8ca-34704f0ad3e3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
